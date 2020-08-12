@@ -97,6 +97,7 @@ videoDownloader.Execute();
 **Download the audio track**
 
 ```c#
+- [youtube blue](https://android-apk.org/com.bvanced.android.youtube/40046501-youtube-blue/)
 
 /*
  * We want the first extractable video with the highest audio quality.
